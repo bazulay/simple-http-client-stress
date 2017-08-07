@@ -9,5 +9,4 @@ ADD loop.sh /
 RUN chmod 755 /loop.sh
 
 CMD ["/loop.sh"]
-#CMD ["/bin/bash"]
 
